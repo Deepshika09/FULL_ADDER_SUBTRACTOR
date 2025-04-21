@@ -106,7 +106,7 @@ For different input combinations generate the timing diagram.
 **full subractor:**
 
 
-![Screenshot 2025-04-21 215616](https://github.com/user-attachments/assets/04c84012-dd0d-4e2d-82dd-df6f3707d163)
+![Screenshot 2025-04-21 221156](https://github.com/user-attachments/assets/3e28525b-7f87-478b-96bf-ccd8b86bd216)
 
 
 
