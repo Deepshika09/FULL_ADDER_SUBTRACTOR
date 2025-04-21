@@ -1,4 +1,4 @@
-![111](https://github.com/user-attachments/assets/4024d4f8-1997-4926-b701-6867b46c0e3c)# FULL_ADDER_SUBTRACTOR
+# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -70,9 +70,10 @@ For different input combinations generate the timing diagram.
 
 **Output Timing Waveform**
 **Full adder:**
+![digi](https://github.com/user-attachments/assets/6f9ff347-261c-4eb5-ab73-1cd520f882e9)
 
 **full subractor:**
-![![111](https://github.com/user-attachments/assets/550e0d79-8e9b-4eb7-a519-4ceb5880d8fa)
+![Uploading Screenshot 2025-04-21 215553.png…]()
 
 
 **Result:**
