@@ -37,6 +37,7 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+
 **Full adder:**
 ![digi 1](https://github.com/user-attachments/assets/488be2a8-3502-4fce-ab5d-cbeb3d91f00f)
 
@@ -58,11 +59,14 @@ For different input combinations generate the timing diagram.
 
 **Program:**
 
+
 **Full adder:**
+
 ![Screenshot 2025-04-17 115127](https://github.com/user-attachments/assets/dbd72c50-7e9c-47c5-a50a-c4d31c269c6c)
 
 
 **full subractor:**
+
 ![Screenshot 2025-04-17 114610](https://github.com/user-attachments/assets/702b0094-eb00-4136-bf03-c8fceca8ab37)
 
 
