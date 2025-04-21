@@ -1,3 +1,6 @@
+**Name:Deepshika Hemanth kumar**
+**Register number:212224220020**
+
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
