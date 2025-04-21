@@ -79,19 +79,33 @@ For different input combinations generate the timing diagram.
 ![Screenshot 2025-04-17 114610](https://github.com/user-attachments/assets/702b0094-eb00-4136-bf03-c8fceca8ab37)
 
 
+
 **RTL Schematic**
+
 **Full adder:**
+
+
 ![Screenshot 2025-04-17 111521](https://github.com/user-attachments/assets/cd8f8072-b483-4144-850c-31b9ddc8474c)
 
 
 **full subractor:**
+
+
+
 ![Screenshot 2025-04-17 114629](https://github.com/user-attachments/assets/eaa00a13-0bc4-4cf2-9db6-ab34adebc375)
 
+
 **Output Timing Waveform**
+
+
 **Full adder:**
+
+
 ![digi](https://github.com/user-attachments/assets/6f9ff347-261c-4eb5-ab73-1cd520f882e9)
 
 **full subractor:**
+
+
 ![Screenshot 2025-04-21 215616](https://github.com/user-attachments/assets/04c84012-dd0d-4e2d-82dd-df6f3707d163)
 
 
