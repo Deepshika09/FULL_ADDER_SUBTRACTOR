@@ -42,6 +42,12 @@ Borrow out = A'Bin + A'B + BBin
 ![digi 1](https://github.com/user-attachments/assets/488be2a8-3502-4fce-ab5d-cbeb3d91f00f)
 
 
+
+
+
+
+
+
 **Full Subractor:**
 ![digi 2](https://github.com/user-attachments/assets/1412ba83-6ad9-4de1-ac41-8db02c6269bf)
 
