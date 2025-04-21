@@ -39,6 +39,8 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 **Full adder:**
 ![digi 1](https://github.com/user-attachments/assets/488be2a8-3502-4fce-ab5d-cbeb3d91f00f)
+
+
 **Full Subractor:**
 ![digi 2](https://github.com/user-attachments/assets/1412ba83-6ad9-4de1-ac41-8db02c6269bf)
 
@@ -58,6 +60,8 @@ For different input combinations generate the timing diagram.
 
 **Full adder:**
 ![Screenshot 2025-04-17 115127](https://github.com/user-attachments/assets/dbd72c50-7e9c-47c5-a50a-c4d31c269c6c)
+
+
 **full subractor:**
 ![Screenshot 2025-04-17 114610](https://github.com/user-attachments/assets/702b0094-eb00-4136-bf03-c8fceca8ab37)
 
@@ -65,6 +69,8 @@ For different input combinations generate the timing diagram.
 **RTL Schematic**
 **Full adder:**
 ![Screenshot 2025-04-17 111521](https://github.com/user-attachments/assets/cd8f8072-b483-4144-850c-31b9ddc8474c)
+
+
 **full subractor:**
 ![Screenshot 2025-04-17 114629](https://github.com/user-attachments/assets/eaa00a13-0bc4-4cf2-9db6-ab34adebc375)
 
@@ -73,7 +79,8 @@ For different input combinations generate the timing diagram.
 ![digi](https://github.com/user-attachments/assets/6f9ff347-261c-4eb5-ab73-1cd520f882e9)
 
 **full subractor:**
-![Uploading Screenshot 2025-04-21 215553.png…]()
+![Screenshot 2025-04-21 215616](https://github.com/user-attachments/assets/04c84012-dd0d-4e2d-82dd-df6f3707d163)
+
 
 
 **Result:**
